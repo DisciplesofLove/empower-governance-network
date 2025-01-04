@@ -41,7 +41,7 @@ export const Contact = () => {
                   <Phone className="h-6 w-6 text-primary" />
                   <div>
                     <h3 className="font-semibold">Phone</h3>
-                    <p className="text-gray-600">+1 (555) 123-4567</p>
+                    <p className="text-gray-600">+1 (918) 716-5456</p>
                   </div>
                 </div>
               </CardContent>
