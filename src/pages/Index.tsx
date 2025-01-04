@@ -4,6 +4,11 @@ import { HowItWorks } from "@/components/HowItWorks";
 import { Technology } from "@/components/Technology";
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
+import { Governance } from "@/components/Governance";
+import { Community } from "@/components/Community";
+import { Resources } from "@/components/Resources";
+import { FAQ } from "@/components/FAQ";
+import { Contact } from "@/components/Contact";
 
 const Index = () => {
   return (
@@ -14,6 +19,11 @@ const Index = () => {
         <Values />
         <HowItWorks />
         <Technology />
+        <Governance />
+        <Community />
+        <Resources />
+        <FAQ />
+        <Contact />
       </main>
       <Footer />
     </div>
