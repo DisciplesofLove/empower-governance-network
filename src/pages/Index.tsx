@@ -7,6 +7,7 @@ import { Footer } from "@/components/Footer";
 import { Governance } from "@/components/Governance";
 import { Community } from "@/components/Community";
 import { Resources } from "@/components/Resources";
+import { Projects } from "@/components/Projects";
 import { FAQ } from "@/components/FAQ";
 import { Contact } from "@/components/Contact";
 
@@ -19,6 +20,7 @@ const Index = () => {
         <Values />
         <HowItWorks />
         <Technology />
+        <Projects />
         <Governance />
         <Community />
         <Resources />
